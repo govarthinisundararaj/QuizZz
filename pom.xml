@@ -113,7 +113,7 @@
 			</plugin>
 			<plugin>
 			    <artifactId>maven-surefire-plugin</artifactId>
-			    <version>${maven.surefire.version}</version>
+			    <version>3.0.0-M3</version>
 			    <configuration>
 				<includes>
 				    <include>TestFail.java</include>
